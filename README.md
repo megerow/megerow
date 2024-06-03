@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src='../gerow1.jpg' />
+<img src='[../gerow1.jpg](https://github.com/megerow/megerow/blob/main/gerow1.jpg)' />
 
 ```mermaid
 flowchart TD
