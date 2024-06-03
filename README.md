@@ -1,4 +1,6 @@
-## Impactful Application Development | Process Automation | Artificial Intelligence | Agile Project Management | Technology Leadership 👋
+## Impactful Application Development | Process Automation | Artificial Intelligence | Agile Project Management | Technology Leadership
+
+I am happy to collaborate with other developers working in the AI + ASP.NET + C# + SQL + vector space. Am currently working on a series of articles on RAG. Providing consulting/contract services to clients around same. 
 
 <!--
 **megerow/megerow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
