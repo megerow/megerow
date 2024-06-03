@@ -1,4 +1,4 @@
-## Hi there 👋
+## Impactful Application Development | Process Automation | Artificial Intelligence | Agile Project Management | Technology Leadership 👋
 
 <!--
 **megerow/megerow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
