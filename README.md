@@ -1,13 +1,8 @@
 ## Impactful Application Development | Process Automation | Artificial Intelligence | Agile Project Management | Technology Leadership | Business Intelligence
 
-I am happy to collaborate with other developers working in the AI + ASP.NET + C# + SQL + vector space. Am currently working on a series of articles on RAG. Providing consulting/contract services to clients around same. 
+I am happy to collaborate with other developers working in the AI + ASP.NET + C# + SQL + vector database space. Am currently working on a series of articles on RAG. Providing consulting/contract services to clients around same. 
 
-I have experience in the following:
-
-* a
-* b
-* c
-
+🔭 I’m currently working on a series of ASP.NET / C# / MVC projects to create a template AI question/answer chatbot using OpenAI's LLM and DataStax's vector database, along with other services and data sources.
 <!--
 **megerow/megerow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
