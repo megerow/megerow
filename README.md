@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src='https://github.com/megerow/megerow/blob/main/Screenshot%202024-06-03%20162129.png' />
+<img src='https://github.com/megerow/megerow/blob/main/Screenshot%202024-06-03%20162129.png' style='box-shadow: 10px 10px 5px lightblue;' />
 
 The following flowchart depicts how this application functions. 
 
