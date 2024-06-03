@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src='../gerow1.jpg' />
+
 ```mermaid
 flowchart TD
     ng(["<span style='color: black'>1. Prompt seeker to<br> ask a question</span>"]) --> nz{"2. Did the seeker <br>ask a question?"}
